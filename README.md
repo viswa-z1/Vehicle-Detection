@@ -9,6 +9,7 @@ The objective of the program given is to detect object of interest(Car) in video
 Why Vehicle Detection?
 
 --> The startling losses both in human lives and finance caused by vehicle accidents.
+
 --> Detecting vehicles in images acquired from a moving platform is a challenging problem.
 
 OPENCV :
